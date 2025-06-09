@@ -200,6 +200,3 @@ This project is licensed under the MIT License.
 
 ## Contact
 For issues or suggestions, open an issue on the repository or contact the maintainer.
-
-
-This README is now explicitly formatted for a `README.md` file, maintaining the same content and structure as the previous version, with the correct `contentType="text/markdown"` and reused `artifact_id`. Save this content as `README.md` in the root of your project directory. Let me know if you need further tweaks or additional sections!
